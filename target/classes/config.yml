@@ -1,0 +1,21 @@
+#This is the official towny plugin for FireMC
+#
+#Copying this plugin and say its your is illegal
+#Getting inspired by it or look in it and use some fragments is totally fine
+#This plugin is created by TissaNiffo
+#
+#Config section
+#
+#Flatfile
+#Yaml (yml) recommended for Flatfiles
+#
+#Fill here the type of database in you want to use
+#Default Yaml
+storage: "Yaml"
+
+#Language
+#Set your language here
+#Default en_EN
+#You can choose between:
+# - en_EN
+language: "en_EN"

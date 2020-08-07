@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ColorsApi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Server/FireMC/Nations/plugins/ColorsApi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

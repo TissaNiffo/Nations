@@ -1,0 +1,11 @@
+name: Nations
+version: 1.0-SNAPSHOT
+main: com.tissaniffo.nations.Nations
+api-version: 1.16
+softdepend: [ColorsApi]
+authors: [TissaNiffo]
+description: The nations plugin for FireMC
+website: www.firemc.net
+commands:
+  town:
+    description: town command

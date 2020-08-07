@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nations:jar">
+    <output-path>$PROJECT_DIR$/../../Server/FireMC/Nations/plugins</output-path>
+    <root id="archive" name="nations.jar">
+      <element id="module-output" name="nations" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Server/FireMC/Nations/plugins/ColorsApi.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
